@@ -1,6 +1,7 @@
+# coding=utf-8
+
 """
-A collection of dictionary class
+Custom dict classes with numeric keys.
 """
 
 __author__ = 'Labrys'
-
